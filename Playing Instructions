@@ -1,0 +1,20 @@
+About the Gauge-monitoring task
+      The green area is the safe area, and the red areas (both upper and lower red areas) are dangerous areas. 
+      Your task is to correct the pointer (the white bar) when it moves from the safe area to either dangerous area. 
+      When the pointer moves to the upper red area, you can press "↓" to make it back to the green area.
+      When the pointer moves to the lower red area, you can press "↑" to make it back to the green area.
+      
+About the Shooting task
+      The manual mode and automation mode only work on the Shooting task.
+      You can press left "Shift" and letter "o" together to make switch between manual and automation mode.
+      
+      The bottom plane is your plane. Your plane never die.
+      
+      When in the manual mode, you can press " → " or "←" to move your plane right or left. 
+      Press Space key to shoot enemy hazards. When in the automation mode, you don't need to 
+      do anything on the shooting task.
+      
+      The Task Uncertainty only works on the shooting task.
+      
+      No matter which mode you are in (manual/automation), you should always play the gauge-monitoring task. 
+      
