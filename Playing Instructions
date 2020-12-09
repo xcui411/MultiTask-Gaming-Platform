@@ -2,35 +2,35 @@
  (1) Download two video files and then play the video.
      "Low Task Uncertainty.mp4"    "High Task Uncertainty.mp4"
      
- If you want to know more about this game, please refer to following option.  
+ If you want to know more about this game, please refer to the following option.  
  
- (2)  Download the compressed executable files and then play. About how to play, please read following instructions.
+ (2)  Download the compressed executable files and then play. Please read the following instructions.
 
 Before you play:
-     Download the zip files (Game Demo_High Task Uncertainty.zip and Game Demo_Low Task Uncertainty.zip).
-     Unzip the compressed file, double click the "Low Task Uncertainty.exe"/"High Task Uncertainty.exe" file.
-     In the pop-up window, click "Play". Then maxmize your playing window (otherwise you may not see the gauge-monitoring task). 
+     1. Download the zip files (Game Demo_High Task Uncertainty.zip and Game Demo_Low Task Uncertainty.zip).
+     2. Unzip the compressed file, double click the "Low Task Uncertainty.exe"/"High Task Uncertainty.exe" file.
+     3. In the pop-up window, click "Play". 
+     4. Then maxmize your playing window (otherwise you may not see the gauge-monitoring task). 
 
 
 About the Gauge-monitoring task
-      The green area is the safe area, and the red areas (both upper and lower red areas) are dangerous areas. 
-      Your task is to correct the pointer (the white bar) when it moves from the safe area to either dangerous area. 
-      When the pointer moves to the upper red area, you can press "↓" to make it back to the green area.
-      When the pointer moves to the lower red area, you can press "↑" to make it back to the green area.
+      1. The green area is the safe area, and the red areas (both upper and lower red areas) are dangerous areas. 
+      2. Your task is to correct the pointer (the white bar) when it moves from the safe area to either dangerous area. 
+      3. When the pointer moves to the upper red area, you can press "↓" to make it back to the green area.
+      4. When the pointer moves to the lower red area, you can press "↑" to make it back to the green area.
       
 About the Shooting task
-      The manual mode and automation mode only work on the Shooting task.
+      1. The manual mode and automation mode only work on the Shooting task.
       You can press left "Shift" and letter "o" together to make switch between manual and automation mode.
-      
       The bottom plane is your plane. Your plane never die.
       
-      When in the manual mode, you can press " → " or "←" to move your plane right or left. 
+      2. When in the manual mode, you can press " → " or "←" to move your plane right or left. 
       Press Space key to shoot enemy hazards. When in the automation mode, you don't need to 
       do anything on the shooting task.
       
-      The Task Uncertainty only works on the shooting task.
+      3. The Task Uncertainty only works on the shooting task.
       
-      No matter which mode you are in (manual/automation), you should always play the gauge-monitoring task. 
+      4. No matter which mode you are in (manual/automation), you should always play the gauge-monitoring task. 
       
       
  Developer and Contact information:
